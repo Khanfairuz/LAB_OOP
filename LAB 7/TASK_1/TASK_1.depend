@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1695536472 source:e:\210041109_cse_4302\lab_oop\lab 7\task_1\src\studentcollection.cpp
+	"StudentCollection.h"
+	<iostream>
+	<string.h>
+	<stdlib.h>
+
+1695536450 e:\210041109_cse_4302\lab_oop\lab 7\task_1\include\studentcollection.h
+	<iostream>
+	<string.h>
+	<string.h>
+
+1695536264 source:e:\210041109_cse_4302\lab_oop\lab 7\task_1\main.cpp
+	"StudentCollection.h"
+	<iostream>
+	<string.h>
+

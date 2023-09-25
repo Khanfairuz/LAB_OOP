@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1695540488 source:e:\210041109_cse_4302\lab_oop\lab 7\task_3\main.cpp
+	<iostream>
+	"CurrencyBDT.h"
+	"CurrencyEURO.h"
+	"CurrencyDOLLAR.h"
+
+1695540560 e:\210041109_cse_4302\lab_oop\lab 7\task_3\include\currencybdt.h
+	"CurrencyEURO.h"
+	"CurrencyDOLLAR.h"
+	<iostream>
+
+1695540488 e:\210041109_cse_4302\lab_oop\lab 7\task_3\include\currencyeuro.h
+	<iostream>
+
+1695540488 e:\210041109_cse_4302\lab_oop\lab 7\task_3\include\currencydollar.h
+	<iostream>
+
+1695540488 source:e:\210041109_cse_4302\lab_oop\lab 7\task_3\src\currencybdt.cpp
+	"CurrencyBDT.h"
+	<iostream>
+	"CurrencyEURO.h"
+	"CurrencyDOLLAR.h"
+
+1695540594 source:e:\210041109_cse_4302\lab_oop\lab 7\task_3\src\currencydollar.cpp
+	"CurrencyDOLLAR.h"
+	<iostream>
+
+1695540594 source:e:\210041109_cse_4302\lab_oop\lab 7\task_3\src\currencyeuro.cpp
+	"CurrencyEURO.h"
+	<iostream>
+
